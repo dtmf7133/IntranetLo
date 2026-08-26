@@ -96,7 +96,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
     <div style="float:left; width:320px;">
 
-      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:0px;border:0px solid blue;">
+      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:40px;border:0px solid blue;">
       <tr>
         <td class="search-td" style="width:100%;white-space:nowrap;">       
           
