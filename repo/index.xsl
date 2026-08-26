@@ -168,13 +168,14 @@ IntranetLo was developed using javascript technology too. Please enable javascri
                       <xsl:attribute name="style">font-weight:600; font-style:italic;</xsl:attribute>
                       <xsl:value-of select="DOWNLOAD1"/>
                   </a>
+                  <!--
                   ,
                   <a>
                       <xsl:attribute name="href"><xsl:value-of select="DOWNLOADURL2"/></xsl:attribute>
                       <xsl:attribute name="style">font-weight:600; font-style:italic;</xsl:attribute>
                       <xsl:value-of select="DOWNLOAD2"/>
                   </a>
-
+                  -->  
                   )
                   </nobr>
                 </span>
