@@ -86,10 +86,8 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         <br/><br/><br/>
       </div>--> 
 
-      <div style="float:left;width:78%">
-         <br/><br/>
-      </div>
-
+      <br/><br/>
+      
       <div id="title" style="float:left;width:58%;position:relative;left:-30px; top:0px;"><xsl:value-of select="APP/TITLE"/></div>
 
       <br/>
