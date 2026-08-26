@@ -79,14 +79,18 @@ IntranetLo was developed using javascript technology too. Please enable javascri
    <div id="title" style="width:100%"> 
 
       <div id="avatarLogo" style="float:left;width:300px;margin-top:0px;">
-          <img id="picavatar" src="/res/avatar.png" align="middle" style="clear:;position:relative;display:inline;float:left;"/>
+          <img id="picavatar" src="/res/avatar.png" align="middle" style="clear:;position:relative;display:inline;float:left;padding:30px;"/>
       </div>
       <!--
       <div style="clear:both;margin:auto;">
         <br/><br/><br/>
       </div>--> 
 
-      <div id="title" style="float:left;width:500px;position:relative;left:-60px; top:150px;"><xsl:value-of select="APP/TITLE"/></div>
+      <div style="float:left;width:500px">
+         <br/><br/><br/><br/>
+      </div>
+
+      <div id="title" style="float:left;width:500px;position:relative;left:-30px; top:0px;"><xsl:value-of select="APP/TITLE"/></div>
 
       <br/>
 
