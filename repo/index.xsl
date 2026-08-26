@@ -251,7 +251,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         </td>  
         </tr>
         </table>
-        </div>      
+        
         
         </td>
         </tr>      
