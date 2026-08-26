@@ -117,7 +117,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
           <span id="butSearch-addon" onmouseover="$(this).css('cursor','pointer');" style="cursor:pointer;position:relative;margin-left:15px;left:-30px;width:60px;height:80;top:18px;font-size:60px;color:#d2454c;" class="glyphicon glyphicon-search" title="Search!" onclick="search($('input#q'));">&#8201;<!--<img src="/res/arrow-lb.png" style="width:80px;"/>--></span>
           
           <datalist id="liveres">
-          <xsl:for-each select="ITEM[TYPE='project']">
+          <xsl:for-each select="ITEM[TYPE='file']">
 		
               <xsl:sort select="ID" data-type="number" order="ascending"/>
 
@@ -293,7 +293,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         var linkt = [];
         var linkids = [];
         
-        <xsl:for-each select="ITEM[TYPE='project']">
+        <xsl:for-each select="ITEM[TYPE='file']">
   
         <xsl:sort select="ID" data-type="number" order="ascending"/>
   
