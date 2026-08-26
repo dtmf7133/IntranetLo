@@ -78,7 +78,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
    
    <div id="title" style="width:100%"> 
 
-      <div id="avatarLogo" style="width:300px;margin-top:0px;">
+      <div id="avatarLogo" style="float:left;width:300px;margin-top:0px;">
           <img id="picavatar" src="/res/avatar.png" align="middle" style="clear:;position:relative;display:inline;float:left;"/>
       </div>
       <!--
@@ -86,7 +86,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         <br/><br/><br/>
       </div>--> 
 
-      <div id="title" style="float:left:width:500px"><xsl:value-of select="APP/TITLE"/></div>
+      <div id="title" style="float:left;width:500px"><xsl:value-of select="APP/TITLE"/></div>
 
       <br/>
 
