@@ -86,7 +86,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         <br/><br/><br/>
       </div>--> 
 
-      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:40px;border:0px solid blue;">
+      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:0px;border:0px solid blue;">
       <tr>
         <td class="search-td" style="width:100%;white-space:nowrap;">       
           
@@ -99,12 +99,14 @@ IntranetLo was developed using javascript technology too. Please enable javascri
                  <xsl:attribute name="style">color:#d2454c; font-weight:600; font-style:italic;</xsl:attribute>
                  <xsl:value-of select="NAME"/>
               </a>
+
+              <br/>
               
           </xsl:for-each> 
 
           <br/>
 
-          <input id="q" li-st="liveres" type="text" class="input-search search-box" style="position:relative;top:+0px;left:-60px;width:65%;min-width:100px;height:60px;border:6px solid #d2454c;border-radius:5px;font-size:29px;font-family:Lato,sans,sans-serif;font-weight:900;padding:6px;padding-left:15px;text-transform:uppercase;color:lightgray;" placeholder="SEARCH" maxlength="30" title="type here..."/>&#8201;&#8201;&#8201;&#8201;
+          <input id="q" li-st="liveres" type="text" class="input-search search-box" style="position:relative;top:+0px;left:0px;width:65%;min-width:100px;height:60px;border:6px solid #d2454c;border-radius:5px;font-size:29px;font-family:Lato,sans,sans-serif;font-weight:900;padding:6px;padding-left:15px;text-transform:uppercase;color:lightgray;" placeholder="SEARCH" maxlength="30" title="type here..."/>&#8201;&#8201;&#8201;&#8201;
           
           <span id="butSearch-addon" onmouseover="$(this).css('cursor','pointer');" style="cursor:pointer;position:relative;margin-left:15px;left:-90px;width:60px;height:80;top:18px;font-size:60px;color:#d2454c;" class="glyphicon glyphicon-search" title="Search!" onclick="search($('input#q'));">&#8201;<!--<img src="/res/arrow-lb.png" style="width:80px;"/>--></span>
           
