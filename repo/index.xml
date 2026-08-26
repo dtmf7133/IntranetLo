@@ -24,6 +24,9 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
 <?xml-stylesheet type="text/xsl" href="/repo/index.xsl"?>
 
 <CONTENT>
+  <APP>
+     <TITLE>IntranetLo</TITLE>
+  </APP>
   <FOLDER>
      <ID>1</ID>
      <NAME>TAR.GZ Archive</NAME>
