@@ -109,7 +109,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
               <a>
                  <xsl:attribute name="href"><xsl:value-of select="URI"/></xsl:attribute>
                  <xsl:attribute name="style">color:#d2454c; font-weight:600; font-style:italic;</xsl:attribute>
-                 <img src="/res/folder.png"/>
+                 <img src="/res/folder.png"/>&#8201;
                  <xsl:value-of select="NAME"/>
               </a>
 
@@ -144,7 +144,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
        </div>
 
-      <table style="float:left; width:58%; margin-left:60px;margin-top:0px;min-width:58%;">
+      <table style="float:left; width:50%; margin-left:60px;margin-top:0px;min-width:48%;">
       <tr>         
        <td id="content-td" colspan="2" style="min-height:2200px;vertical-align:top;">
       
