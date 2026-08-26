@@ -36,7 +36,7 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
   <ITEM>
     <ID>1</ID>
     <DATE>2026-05-30</DATE>
-    <PROJECT><![CDATA[RADXIDE-main.tar.gz]]></PROJECT>
+    <PROJECT><![CDATA[RADXIDE-1.6.1.tar.gz]]></PROJECT>
     <PROJECTURL>/repo/tar.gz/RADXIDE-1.6.1.tar.gz</PROJECTURL>
     <DESC><![CDATA[RADXIDE's last version]]></DESC>
     <DOWNLOAD1><![CDATA[RADXIDE-1.6.1.tar.gz]]></DOWNLOAD1>
