@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- processing output
+
+GPL 3 License
+
+Copyright 2021, 2028 NuMode
+
+This file is part of IntranetLo.
+
+IntranetLo is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+IntranetLo is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.  
+ 
+You should have received a copy of the GNU General Public License
+along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
+-->
+
+<?xml-stylesheet type="text/xsl" href="/repo/tar.gz/index.xsl"?>
+
+<CONTENT>
+  <APP>
+     <TITLE>IntranetLo</TITLE>
+  </APP>
+  <FOLDER>
+     <ID>1</ID>
+     <NAME>..</NAME>
+     <URI>/repo</URI>
+     <TYPE>subfolder</TYPE>
+  </FOLDER>
+  <ITEM>
+    <ID>1</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[RADXIDE-main.tar.gz]]></PROJECT>
+    <PROJECTURL>/repo/tar.gz/RADXIDE-main.tar.gz</PROJECTURL>
+    <DESC><![CDATA[RADXIDE's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[RADXIDE-main.tar.gz]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/blob/main/repo/tar.gz/RADXIDE-main.tar.gz</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>archive readme file</TAGS>
+    <INDEX>1</INDEX>
+  </ITEM>
+</CONTENT>
