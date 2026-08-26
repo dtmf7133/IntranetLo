@@ -76,7 +76,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
        
    <form id="frmUpload" style="width:100%;min-width:380px;max-width:100%;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:5px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">
    
-   <div id="title"> 
+   <div id="title" style="float:left; width:320px;"> 
 
       <div id="avatarLogo" style="width:300px;margin-top:0px;">
           <img id="picavatar" src="/res/avatar.png" align="middle" style="clear:;position:relative;display:inline;float:left;"/>
@@ -85,6 +85,8 @@ IntranetLo was developed using javascript technology too. Please enable javascri
       <div style="clear:both;margin:auto;">
         <br/><br/><br/>
       </div>--> 
+
+      <br/>
 
       <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:0px;border:0px solid blue;">
       <tr>
@@ -131,7 +133,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
        </div>
 
-      <table style="margin-left:60px;margin-top:100px;min-width:85%">
+      <table style="float:left; margin-left:60px;margin-top:100px;min-width:85%;max-width:78%;">
       <tr>         
        <td id="content-td" colspan="2" style="min-height:2200px;vertical-align:top;">
       
