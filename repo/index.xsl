@@ -88,7 +88,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
       <br/><br/>
       
-      <div id="title" style="float:left;width:58%;position:relative;left:-30px; top:0px;"><xsl:value-of select="APP/TITLE"/></div>
+      <div id="title" style="float:left;width:58%;position:relative;left:10px; top:0px;"><xsl:value-of select="APP/TITLE"/></div>
 
       <br/>
 
@@ -96,7 +96,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
     <div style="float:left; width:320px;">
 
-      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:40px;border:0px solid blue;">
+      <table class="main-table" style="clear;float:left; width:350px;max-width:300px;margin-top:100px;margin-left:60px;border:0px solid blue;">
       <tr>
         <td class="search-td" style="width:100%;white-space:nowrap;">       
           
