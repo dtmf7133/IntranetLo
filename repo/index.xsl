@@ -137,7 +137,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
        </div>
 
-      <table style="float:left; margin-left:60px;margin-top:100px;min-width:85%;max-width:68%;">
+      <table style="float:left; width:68%; margin-left:60px;margin-top:100px;min-width:68%;">
       <tr>         
        <td id="content-td" colspan="2" style="min-height:2200px;vertical-align:top;">
       
