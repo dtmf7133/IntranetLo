@@ -252,12 +252,13 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         </tr>
         </table>
         
+        </div>
         
         </td>
         </tr>      
       </table> 
    
-    <div style="claer:both;margin:auto;">
+    <div style="clear:both;margin:auto;">
       <br/><br/><br/><br/>
     </div>
 
