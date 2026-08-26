@@ -39,8 +39,8 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <PROJECT><![CDATA[RADXIDE-main.tar.gz]]></PROJECT>
     <PROJECTURL>/repo/tar.gz/RADXIDE-main.tar.gz</PROJECTURL>
     <DESC><![CDATA[RADXIDE's last version]]></DESC>
-    <DOWNLOAD1><![CDATA[RADXIDE-main.tar.gz]]></DOWNLOAD1>
-    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/blob/main/repo/tar.gz/RADXIDE-main.tar.gz</DOWNLOADURL1>
+    <DOWNLOAD1><![CDATA[RADXIDE-1.6.1.tar.gz]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/tar.gz/RADXIDE-1.6.1.tar.gz</DOWNLOADURL1>
     <DOWNLOAD2/>
     <DOWNLOADURL2/>
     <SEE1/>
