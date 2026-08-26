@@ -86,7 +86,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
         <br/><br/><br/>
       </div>--> 
 
-      <div style="float:left;width:500px">
+      <div style="float:left;width:78%">
          <br/><br/>
       </div>
 
