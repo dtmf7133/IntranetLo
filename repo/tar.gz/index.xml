@@ -340,7 +340,7 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <PROJECTURL>/repo/tar.gz/FastCached-master.tar.gz</PROJECTURL>
     <DESC><![CDATA[FastCached's last version]]></DESC>
     <DOWNLOAD1><![CDATA[FastCached-master.tar.gz]]></DOWNLOAD1>
-    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/tar.gz/FastCached-master.tar.gz</DOWNLOADURL1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/tar.gz/FastCached-main.tar.gz</DOWNLOADURL1>
     <DOWNLOAD2/>
     <DOWNLOADURL2/>
     <SEE1/>
