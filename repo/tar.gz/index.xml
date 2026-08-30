@@ -858,4 +858,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>dropinpic last version tar.gz source code install</TAGS>
     <INDEX>33</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>34</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[DropInSound-1.0.7.tar.gz]]></PROJECT>
+    <PROJECTURL>/repo/tar.gz/DropInSound-1.0.7.tar.gz</PROJECTURL>
+    <DESC><![CDATA[DropInSound's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[DropInSound-1.0.7.tar.gz]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/tar.gz/DropInSound-1.0.7.tar.gz</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>dropinsound last version tar.gz source code install</TAGS>
+    <INDEX>34</INDEX>
+  </ITEM>
 </CONTENT>
