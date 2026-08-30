@@ -158,4 +158,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>homomm last version zip source code install</TAGS>
     <INDEX>5</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>6</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[JohnDoe-Page-1.1.3.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/JohnDoe-Page-1.1.3.zip</PROJECTURL>
+    <DESC><![CDATA[JohnDoe-Page's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[JohnDoe-Page-1.1.3.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/JohnDoe-Page-1.1.3.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>johndoe-page last version zip source code install</TAGS>
+    <INDEX>6</INDEX>
+  </ITEM>
 </CONTENT>
