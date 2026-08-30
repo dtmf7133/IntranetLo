@@ -114,7 +114,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
               <a>
                  <xsl:attribute name="href"><xsl:value-of select="URI"/></xsl:attribute>
-                 <xsl:attribute name="style">color:#d2454c; font-weight:600; font-style:italic;</xsl:attribute>
+                 <xsl:attribute name="style">color:#d2454c; font-weight:900; font-style:italic;</xsl:attribute>
                  <img src="/res/folder.png"/>&#8201;
                  <xsl:value-of select="NAME"/>
               </a>
