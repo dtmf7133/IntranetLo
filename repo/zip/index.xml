@@ -308,4 +308,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>fasterr last version zip source code install</TAGS>
     <INDEX>11</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>12</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastMySql-master.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/FastMySql-master.zip</PROJECTURL>
+    <DESC><![CDATA[FastMySql's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[FastMySql-master.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/FastMySql-master.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastmysql last version zip source code install</TAGS>
+    <INDEX>12</INDEX>
+  </ITEM>
 </CONTENT>
