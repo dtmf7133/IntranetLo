@@ -183,4 +183,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>johndoe-page last version zip source code install</TAGS>
     <INDEX>6</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>7</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[AvatarFree-1.5.9.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/AvatarFree-1.5.9.zip</PROJECTURL>
+    <DESC><![CDATA[AvatarFree's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[AvatarFree-1.5.9.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/AvatarFree-1.5.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>avatarfree last version zip source code install</TAGS>
+    <INDEX>7</INDEX>
+  </ITEM>
 </CONTENT>
