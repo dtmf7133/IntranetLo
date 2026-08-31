@@ -958,4 +958,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>placeroll last version zip source code install</TAGS>
     <INDEX>37</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>38</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Fooddish-1.0.9.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/Fooddish-1.0.9.zip</PROJECTURL>
+    <DESC><![CDATA[Fooddish's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[Fooddish-1.0.9.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/Fooddish-1.0.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fooddish last version zip source code install</TAGS>
+    <INDEX>38</INDEX>
+  </ITEM>
 </CONTENT>
