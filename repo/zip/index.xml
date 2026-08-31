@@ -211,7 +211,7 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
  <ITEM>
     <ID>8</ID>
     <DATE>2026-05-30</DATE>
-    <PROJECT><![CDATA[Puzzleu-1.2.6.tar.gz]]></PROJECT>
+    <PROJECT><![CDATA[Puzzleu-1.2.6.zip]]></PROJECT>
     <PROJECTURL>/repo/zip/Puzzleu-1.2.6.zip</PROJECTURL>
     <DESC><![CDATA[Puzzleu's last version]]></DESC>
     <DOWNLOAD1><![CDATA[Puzzleu-1.2.6.zip]]></DOWNLOAD1>
@@ -1207,5 +1207,30 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <CAT>info</CAT>
     <TAGS>pdftexter last version zip source code install</TAGS>
     <INDEX>47</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>48</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[BoxToBox-1.0.8.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/BoxToBox-1.0.8.zip</PROJECTURL>
+    <DESC><![CDATA[BoxToBox's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[BoxToBox-1.0.8.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/BoxToBox-1.0.8.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>boxtobox last version zip source code install</TAGS>
+    <INDEX>48</INDEX>
   </ITEM>
 </CONTENT>
