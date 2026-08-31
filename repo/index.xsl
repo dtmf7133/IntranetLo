@@ -162,7 +162,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
           
           <xsl:for-each select="ITEM[TYPE='file']">
 		
-             <xsl:sort select="ID" data-type="number" order="ascending"/>
+             <xsl:sort select="ID" order="ascending"/>
 		
              <div>
                 <xsl:attribute name="id"><xsl:value-of select="ID"/></xsl:attribute>
