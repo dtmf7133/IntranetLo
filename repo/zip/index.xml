@@ -1308,4 +1308,29 @@ along with IntranetLo. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>live2tar last version zip source code install</TAGS>
     <INDEX>51</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>52</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[lLittleRecaptcha-1.0.5.zip]]></PROJECT>
+    <PROJECTURL>/repo/zip/LittleRecaptcha-1.0.5.zip</PROJECTURL>
+    <DESC><![CDATA[LittleRecaptcha's last version]]></DESC>
+    <DOWNLOAD1><![CDATA[LittleRecaptcha-1.0.5.zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/raw/refs/heads/main/repo/zip/LittleRecaptcha-1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2/>
+    <DOWNLOADURL2/>
+    <SEE1/>
+    <SEEURL1/>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>file</TYPE>
+    <CAT>info</CAT>
+    <TAGS>littlerecaptcha last version zip source code install</TAGS>
+    <INDEX>52</INDEX>
+  </ITEM>
 </CONTENT>
