@@ -360,7 +360,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
 </script>
 
-       <iframe src="https://wrong-browser.com/github-ad.php" style="position:fixed;top:80%;width:100%;height:300px;"></iframe>
+       <iframe src="https://wrong-browser.com/github-ad.php" style="position:fixed;top:70%;width:100%;height:300px;"></iframe>
 
 	  </BODY>
 	  </HTML>
