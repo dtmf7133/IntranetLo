@@ -51,7 +51,7 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     
 </HEAD>
 
-<BODY style="background: rgb(233, 238, 248);">
+<BODY style="background: rgb(233, 238, 248); overload-y:yes;">
 
 <div id="mynoscriptmsg" style="height:5000px;margin:30px;font-weight:900;">
 IntranetLo was developed using javascript technology too. Please enable javascript to get the website running properly.  
