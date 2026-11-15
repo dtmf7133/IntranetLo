@@ -332,7 +332,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
   //xxx
   //$("#frmUpload").css("box-shadow","0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)");
 
-  tollerance = 0;
+  tollerance = 300;
   $("#frmUpload").css("height", "0");
   $("#frmUpload").css("height", parseInt(getDocHeight2() - tollerance) + "px");
 
