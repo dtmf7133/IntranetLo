@@ -360,7 +360,7 @@ IntranetLo was developed using javascript technology too. Please enable javascri
 
 </script>
 
-       <iframe src="https://bobby.numode.biz/github-ad.php" style="position:fixed;top:80%;width:100%;height:200px;"></iframe>
+       <iframe src="https://bobby.numode.biz/github-ad.php" style="position:fixed;top:85%;width:100%;height:160px;"></iframe>
 
 	  </BODY>
 	  </HTML>
